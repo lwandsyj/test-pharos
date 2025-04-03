@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-pharos/static/css/main.f504b5ec.css",
-    "main.js": "/test-pharos/static/js/main.b7bd28d7.js",
+    "main.js": "/test-pharos/static/js/main.846ee8c5.js",
     "static/js/641.0dae7505.chunk.js": "/test-pharos/static/js/641.0dae7505.chunk.js",
     "static/js/944.c6476d6e.chunk.js": "/test-pharos/static/js/944.c6476d6e.chunk.js",
     "static/js/482.6170c3de.chunk.js": "/test-pharos/static/js/482.6170c3de.chunk.js",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.f504b5ec.css",
-    "static/js/main.b7bd28d7.js"
+    "static/js/main.846ee8c5.js"
   ]
 }
