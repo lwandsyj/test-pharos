@@ -1,25 +1,32 @@
 {
   "files": {
     "main.css": "/test-pharos/static/css/main.f504b5ec.css",
-    "main.js": "/test-pharos/static/js/main.3e275be0.js",
-    "static/js/641.28594511.chunk.js": "/test-pharos/static/js/641.28594511.chunk.js",
+    "main.js": "/test-pharos/static/js/main.a209c201.js",
+    "static/js/641.e16104e7.chunk.js": "/test-pharos/static/js/641.e16104e7.chunk.js",
     "static/js/944.c6476d6e.chunk.js": "/test-pharos/static/js/944.c6476d6e.chunk.js",
     "static/js/482.6170c3de.chunk.js": "/test-pharos/static/js/482.6170c3de.chunk.js",
-    "static/js/496.da1f8114.chunk.js": "/test-pharos/static/js/496.da1f8114.chunk.js",
-    "static/js/674.dc4faac1.chunk.js": "/test-pharos/static/js/674.dc4faac1.chunk.js",
-    "static/js/951.be177c2f.chunk.js": "/test-pharos/static/js/951.be177c2f.chunk.js",
-    "static/js/27.3f80c4d9.chunk.js": "/test-pharos/static/js/27.3f80c4d9.chunk.js",
+    "static/js/496.f2e5172f.chunk.js": "/test-pharos/static/js/496.f2e5172f.chunk.js",
+    "static/js/674.810de2d6.chunk.js": "/test-pharos/static/js/674.810de2d6.chunk.js",
+    "static/js/951.a5c44189.chunk.js": "/test-pharos/static/js/951.a5c44189.chunk.js",
+    "static/js/27.c099a090.chunk.js": "/test-pharos/static/js/27.c099a090.chunk.js",
     "static/js/363.30526eae.chunk.js": "/test-pharos/static/js/363.30526eae.chunk.js",
     "static/media/home-banner.png": "/test-pharos/static/media/home-banner.ac95344b7a84397ffe46.png",
     "static/media/invite-bg.png": "/test-pharos/static/media/invite-bg.d248264e76e3e5524756.png",
     "static/media/app-bg.png": "/test-pharos/static/media/app-bg.cd29af316be993a14136.png",
-    "static/media/nft.png": "/test-pharos/static/media/nft.f6c99dc8fbef77be32fa.png",
+    "static/media/doc-bg.jpg": "/test-pharos/static/media/doc-bg.dc483c1a6daa8e6fda90.jpg",
+    "static/media/join-bg.jpg": "/test-pharos/static/media/join-bg.38857344d5400dffbe4d.jpg",
+    "static/media/nft.png": "/test-pharos/static/media/nft.5255c54b357050577dc5.png",
+    "static/media/nft-1.png": "/test-pharos/static/media/nft-1.ba98909037615fc4971f.png",
+    "static/media/invite-img.png": "/test-pharos/static/media/invite-img.74d93724ba8c0202f985.png",
     "static/media/faucet-bg.png": "/test-pharos/static/media/faucet-bg.d75d247ca4923a877bf3.png",
     "static/media/wallet.png": "/test-pharos/static/media/wallet.b8fce5b0f7e9571c9497.png",
+    "static/media/nft1.jpg": "/test-pharos/static/media/nft1.484230c07c67924e072d.jpg",
+    "static/media/complete-task.jpg": "/test-pharos/static/media/complete-task.096c4aa7e32e53a7b81f.jpg",
+    "static/media/start-tag.png": "/test-pharos/static/media/start-tag.6007d029f2ba2c9d4c7d.png",
     "index.html": "/test-pharos/index.html"
   },
   "entrypoints": [
     "static/css/main.f504b5ec.css",
-    "static/js/main.3e275be0.js"
+    "static/js/main.a209c201.js"
   ]
 }
