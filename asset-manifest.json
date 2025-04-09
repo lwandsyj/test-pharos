@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/test-pharos/static/css/main.f504b5ec.css",
-    "main.js": "/test-pharos/static/js/main.bdc3ac06.js",
+    "main.js": "/test-pharos/static/js/main.c6b1f659.js",
     "static/js/641.e16104e7.chunk.js": "/test-pharos/static/js/641.e16104e7.chunk.js",
     "static/js/944.c6476d6e.chunk.js": "/test-pharos/static/js/944.c6476d6e.chunk.js",
     "static/js/482.6170c3de.chunk.js": "/test-pharos/static/js/482.6170c3de.chunk.js",
-    "static/js/572.e8125c9e.chunk.js": "/test-pharos/static/js/572.e8125c9e.chunk.js",
-    "static/js/674.5bf9f90b.chunk.js": "/test-pharos/static/js/674.5bf9f90b.chunk.js",
-    "static/js/951.87c622e2.chunk.js": "/test-pharos/static/js/951.87c622e2.chunk.js",
-    "static/js/27.d23f1a4b.chunk.js": "/test-pharos/static/js/27.d23f1a4b.chunk.js",
+    "static/js/572.b18fe45f.chunk.js": "/test-pharos/static/js/572.b18fe45f.chunk.js",
+    "static/js/674.1b210b1c.chunk.js": "/test-pharos/static/js/674.1b210b1c.chunk.js",
+    "static/js/951.9d15906b.chunk.js": "/test-pharos/static/js/951.9d15906b.chunk.js",
+    "static/js/27.770410d1.chunk.js": "/test-pharos/static/js/27.770410d1.chunk.js",
     "static/js/363.30526eae.chunk.js": "/test-pharos/static/js/363.30526eae.chunk.js",
     "static/media/home-banner.png": "/test-pharos/static/media/home-banner.ac95344b7a84397ffe46.png",
     "static/media/invite-bg.png": "/test-pharos/static/media/invite-bg.d248264e76e3e5524756.png",
     "static/media/app-bg.png": "/test-pharos/static/media/app-bg.cd29af316be993a14136.png",
+    "static/media/second-bg.png": "/test-pharos/static/media/second-bg.40311409d19f0dbf3192.png",
     "static/media/doc-bg.jpg": "/test-pharos/static/media/doc-bg.dc483c1a6daa8e6fda90.jpg",
     "static/media/join-bg.jpg": "/test-pharos/static/media/join-bg.38857344d5400dffbe4d.jpg",
     "static/media/nft.png": "/test-pharos/static/media/nft.5255c54b357050577dc5.png",
@@ -27,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.f504b5ec.css",
-    "static/js/main.bdc3ac06.js"
+    "static/js/main.c6b1f659.js"
   ]
 }
